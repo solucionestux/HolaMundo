@@ -1,3 +1,7 @@
+//
+// Código de pruebas para la prueba del GitHub + SublimeTex
+//
+
 let blog = "Soluciones Tux"
 let nombre = "Edgardo Ramos-Roque"
 
